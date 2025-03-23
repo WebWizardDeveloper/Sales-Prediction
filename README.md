@@ -20,8 +20,11 @@ Run the app locally and access it at:
 📂 Folder Structure
 
 bash
+
 Copy
+
 Edit
+
 📦 Sales-Prediction-App
 
  ┣ 📜 app.py              # Streamlit app script
